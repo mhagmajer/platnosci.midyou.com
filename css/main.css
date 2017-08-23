@@ -118,7 +118,7 @@ a:active {
     color: #777;
 }
 
-.btn {    
+.btn {
     border-radius: 0;
 }
 
@@ -337,7 +337,7 @@ a:active {
 
 #hero-area {
   padding:180px 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(135deg, #8ec64e 0%, #41aba0 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(135deg, #AC63B1 0%, #892190 100%) repeat scroll 0 0;
 }
 #hero-area:before {
     content: "";
@@ -348,7 +348,7 @@ a:active {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background: url(../img/header-overlay.png);
+    background: url(../images/header-overlay.png);
     opacity: 0.9;
 }
 #hero-area .block {
@@ -490,7 +490,7 @@ a:active {
 }
 #hero-area .block p {
     color: #fff;
-    font-size: 18px; 
+    font-size: 18px;
     font-weight: 300;
     line-height: 30px;
 }
@@ -818,7 +818,7 @@ hr {
 
 .input-field label {
     color: rgba(237, 28, 36, 0.7);
-} 
+}
 .form-group .input-field + .input-field {
     margin-top: 20px;
 }
