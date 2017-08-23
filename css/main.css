@@ -231,7 +231,7 @@ a:active {
   border-top: 5px solid #ecf0f1;
   border-bottom: 5px solid #ecf0f1;
   border-right: 5px solid #ecf0f1;
-  background: #41aba0;
+  background: #892190;
   width: 50px;
   height: 60px;
   -webkit-transform-origin: 0% 50%;
@@ -264,15 +264,15 @@ a:active {
             transform: perspective(600px) rotateY(0deg);
   }
   20% {
-    background: #41aba0;
+    background: #892190;
   }
   29.9% {
-    background: #41aba0;
+    background: #892190;
   }
   30% {
     -webkit-transform: perspective(200px) rotateY(-90deg);
             transform: perspective(200px) rotateY(-90deg);
-    background: #41aba0;
+    background: #892190;
   }
   54.999% {
     opacity: 1;
@@ -283,12 +283,12 @@ a:active {
   60% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
             transform: perspective(200px) rotateY(-180deg);
-    background: #41aba0;
+    background: #892190;
   }
   100% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
             transform: perspective(200px) rotateY(-180deg);
-    background: #41aba0;
+    background: #892190;
   }
 }
 
@@ -298,15 +298,15 @@ a:active {
             transform: perspective(600px) rotateY(0deg);
   }
   20% {
-    background: #41aba0;
+    background: #892190;
   }
   29.9% {
-    background: #41aba0;
+    background: #892190;
   }
   30% {
     -webkit-transform: perspective(200px) rotateY(-90deg);
             transform: perspective(200px) rotateY(-90deg);
-    background: #41aba0;
+    background: #892190;
   }
   54.999% {
     opacity: 1;
@@ -317,12 +317,12 @@ a:active {
   60% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
             transform: perspective(200px) rotateY(-180deg);
-    background: #41aba0;
+    background: #892190;
   }
   100% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
             transform: perspective(200px) rotateY(-180deg);
-    background: #41aba0;
+    background: #892190;
   }
 }
 
@@ -596,11 +596,11 @@ a:active {
         -ms-transform: rotate(50deg);
          -o-transform: rotate(50deg);
             transform: rotate(50deg);
-background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec64e), color-stop(100%,#41aba0));
-  background: -webkit-linear-gradient(-45deg, #8ec64e 0%,#41aba0 100%);
-  background: -o-linear-gradient(-45deg, #8ec64e 0%,#41aba0 100%);
-  background: -ms-linear-gradient(-45deg, #8ec64e 0%,#41aba0 100%);
-  background: linear-gradient(135deg, #8ec64e 0%,#41aba0 100%);
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#AC63B1), color-stop(100%,#892190));
+  background: -webkit-linear-gradient(-45deg, #AC63B1 0%,#892190 100%);
+  background: -o-linear-gradient(-45deg, #AC63B1 0%,#892190 100%);
+  background: -ms-linear-gradient(-45deg, #AC63B1 0%,#892190 100%);
+  background: linear-gradient(135deg, #AC63B1 0%,#892190 100%);
   -webkit-transition: all 0.2s ease-in;
   -moz-transition: all 0.2s ease-in;
   -o-transition: all 0.2s ease-in;
@@ -610,7 +610,7 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
 }
 
 .service:hover .icon-box .icon {
-    background-color: #41aba0;
+    background-color: #892190;
 }
 
 .service .icon-box .icon i {
@@ -638,8 +638,8 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
     transition: all 0.3s ease-in-out 0s;
 }
 #service .thumbnail:hover {
-    background-color: #41aba0;
-    border: 2px solid #41aba0;
+    background-color: #892190;
+    border: 2px solid #892190;
     opacity: 1;
 }
 .thumbnail .icon {
@@ -709,7 +709,7 @@ background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#8ec6
 }
 
 .init-slider .owl-dot {
-    background-color: #41aba0;
+    background-color: #892190;
     border-radius: 50px;
     display: inline-block;
     height: 10px;
@@ -836,7 +836,7 @@ hr {
     color: #fff;
     padding:10px 20px;
     font-size: 15px;
-    background: -webkit-gradient(linear, right top, right bottom, color-stop(0%,#8ec64e), color-stop(100%,#41aba0));
+    background: -webkit-gradient(linear, right top, right bottom, color-stop(0%,#AC63B1), color-stop(100%,#892190));
 }
 #contact .block .btn span {
     padding-left: 23px;
